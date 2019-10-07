@@ -60,7 +60,7 @@ p {
     line-height: 25px;
 
 }
-.experience-container {
+.content2-container {
     display: grid;
     width: 100%;
     grid-template-rows: auto auto;
@@ -68,13 +68,11 @@ p {
 }
 
 .Year1 {
-    float: left;
-    
+    float: left;  
 }
 
 .work1 {
-    float: right;
-    
+    float: right;  
 }
 
 .Year2 {
